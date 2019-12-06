@@ -1,0 +1,6 @@
+framework module Pods_SeaFoodWatson {
+  umbrella header "Pods-SeaFoodWatson-umbrella.h"
+
+  export *
+  module * { export * }
+}
